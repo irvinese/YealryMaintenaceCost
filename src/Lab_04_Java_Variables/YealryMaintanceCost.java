@@ -1,6 +1,6 @@
 package Lab_04_Java_Variables;
 
-class YearlyMaintenanceCost {
+class Lab_04_02_YearlyMaintenanceCost {
     private static System system;
 
     public static void main(String[] args)  {
